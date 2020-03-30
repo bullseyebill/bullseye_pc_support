@@ -3872,8 +3872,8 @@ input, select, textarea {
 		background-attachment: inherit;
 		background-image: url("images/intro2.svg");
 		background-position: unset;
-		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		background-repeat: unset;
+		background-size: 31% 54%;
 	}
 
 		#intro p {
